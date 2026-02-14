@@ -2,17 +2,17 @@
 
 
 ## 🏆 NU Hackathon Pitching 2024
-![NU Hackathon](NU Hackathon.png)
+![NU Hackathon](NU-Hackathon.png)
 
 ---
 
 ## 🎓 Experiencing SAP Programming Career
-![SAP Certificate](Experiencing SAP Programming Career 5.png)
+![SAP Certificate](SAP-Programming.png)
 
 ---
 
 ## 🤖 Automate Cybersecurity Task with Python
-![Cybersecurity Certificate](Automate Cybersecurity Task with Python.png)
+![Cybersecurity Certificate](Automate-Cybersecurity-withPython.png)
 
 
 
